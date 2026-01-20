@@ -1,0 +1,9 @@
+﻿  add.cpp
+C:\Users\GSDobrev23\source\repos\Solution3\math\add.cpp(8,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  multiply.cpp
+C:\Users\GSDobrev23\source\repos\Solution3\math\multiply.cpp(8,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  divide.cpp
+C:\Users\GSDobrev23\source\repos\Solution3\math\divide.cpp(12,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  subtract.cpp
+C:\Users\GSDobrev23\source\repos\Solution3\math\subtract.cpp(8,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
